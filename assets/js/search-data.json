@@ -30,10 +30,7 @@
   
 
   
-  
-
-  
-      ,"page8": {
+      ,"page7": {
           "title": "",
           "content": "Sitemap: {{ “sitemap.xml” | absolute_url }} | .",
           "url": "https://0xaurelius.github.io/merge4climate/robots.txt",
@@ -41,6 +38,9 @@
           "date": ""
       }
       
+  
+
+  
   
 
 }
