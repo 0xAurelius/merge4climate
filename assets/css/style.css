@@ -488,6 +488,6 @@ p { font-size: 18px; }
 
 li { font-size: 18px; }
 
-btn { padding: 10px 16px; font-size: 24px; line-height: 1.3333333; border-radius: 6px; color: #fff; background-color: #0c3; border-color: #0c3; text-align: center; vertical-align: middle; display: inline-block; }
+.btn { padding: 10px 16px; font-size: 24px; line-height: 1.3333333; border-radius: 6px; color: #fff; background-color: #0c3; border-color: #0c3; text-align: center; vertical-align: middle; display: inline-block; }
 
 /*# sourceMappingURL=style.css.map */
